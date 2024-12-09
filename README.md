@@ -13,12 +13,6 @@ Proyecto-RecSys-Pearl
 │   │   Llama3.ipynb
 │   │   Gemma2.ipynb
 │   │   Phi.ipynb
-└── ModelosEntrenados
-│   │   lora_llama3_model_train.zip
-└── Data
-│   │   formatted_test.json
-│   │   formatted_train.json
-│   │   formatted_validation.json
 ```
 
 ## Modelos
@@ -27,8 +21,8 @@ Dentro de este directorio se encuentran los notebooks del entrenamiento y testeo
 
 ## Modelos Entrenados
 
-Dentro de este directorio se encuentran los modelos ya entrenados y en formato zip. Para poder utilizar estos modelos se debe descomprimir el archivo y cargar el modelo en el notebook correspondiente.
+Debido al peso de los archivos, estos no se encuentran en el repositorio, pero este es el link para acceder a estos: <https://drive.google.com/file/d/1eHv0yWdVjgq-23AO_HcWR6ImoKyJtiL9/view?usp=sharing>
 
 ## Data
 
-Dentro de este directorio se encuentran los archivos json que contienen los datos de entrenamiento, validación y testeo. Estos archivos son necesarios para poder entrenar y testear los modelos.
+Debido al peso de los archivos, estos no se encuentran en el repositorio, pero este es el link para acceder a estos: <https://drive.google.com/drive/folders/1-RCfoqVWtaa1FKAZdfmjJpcPs5gT93Er?usp=sharing>
